@@ -1,4 +1,4 @@
-# CogniNET
+# CogniNET [[pdf](https://arxiv.org/pdf/1811.00201.pdf)]
 The code for the ICASSP 2019 submission
 
 ## Abstract
