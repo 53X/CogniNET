@@ -12,7 +12,7 @@ Can we ask computers to recognize what we see from brain signals alone? Our pape
 ## Model Architecture
 <center><img src="https://github.com/codebuddha/CogniNET/blob/master/BrainNet.jpg" align="middle"></center>
 
-## Important Points
+
 
 
 
