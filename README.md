@@ -7,7 +7,8 @@ Can we ask computers to recognize what we see from brain signals alone? Our pape
 ## Model Architecture
 <center><img src="https://github.com/codebuddha/CogniNET/blob/master/BrainNet.jpg" align="middle"></center>
 
-## Important Links
- - The dataset can be found [here](https://drive.google.com/open?id=1k8qm560BYlybynB2YU9dj_kB4ZqrohfE)
+## Important Points
+
+Please note that this is not the complete code for the work. The complete code  and the replication details will be published once this paper gets accepted in a peer-reviewed conference. 
 
 
