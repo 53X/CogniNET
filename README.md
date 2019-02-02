@@ -1,7 +1,7 @@
 # CogniNET [[pdf](https://arxiv.org/pdf/1811.00201.pdf)]
 The **CogniNet** is a recurrent model that can perform classification of EEG signals, as well as function as a feature extractor for further applications. 
 
-**Please note that this is not the complete code for the work. The complete code  and the replication details will be published once this paper gets accepted in a peer-reviewed conference. **  
+**Please note that this is not the complete code for the work. The complete code  and the replication details will be published once this paper gets accepted in a peer-reviewed conference.**  
 
 **The dataset that has been used in this work was originally released at CVPR 2017 by [Spampinato et.al](https://arxiv.org/abs/1609.00344). Also note that, this dataset requires the downloading of images from ImageNet against their corresponding EEG signals. Since the dataset has been publicly released in the above mentioned work, we are no way responsible for the distribution of the dataset and the corresponding images and hence will also not take part in the same.**
 
